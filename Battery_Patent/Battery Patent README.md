@@ -10,9 +10,9 @@ Conducted physical design, circuit design to ensure performance and safety.
 <img width="905" height="698" alt="image" src="https://github.com/user-attachments/assets/14aadee2-4422-474b-8c68-f0859870dd50" />
 <img width="889" height="578" alt="image" src="https://github.com/user-attachments/assets/ec9a9d0e-8750-4bc7-a1a2-d058861aa47c" />
 
- BMS WITH SPOT WELDING
+
 <img width="598" height="557" alt="image" src="https://github.com/user-attachments/assets/b5f6341d-9696-480f-aa14-105d20cba15b" />
 
-
+                                                   BMS WITH SPOT WELDING
 
 
