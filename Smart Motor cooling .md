@@ -1,6 +1,6 @@
 SMART MOTOR COOLING SYSTEM
 
-Motor Cooling System (Research Paper): Developing ESP32 Smart IoT solutions for PMSM/BLDC motors, performing pre-silicon verification, simulation and emulation, thermal analysis (ANSYS),
+Motor Cooling System (Research Paper): Developing ESP32 Smart IoT solutions for PMSM/BLDC motors, simulation and emulation, thermal analysis (ANSYS),
 timing analysis, data acquisition, and performance instrumentation to optimize operating parameters, reliability, and thermal stability for brakes and powertrain. Applied embedded systems, firmware, 
 to design and implement automation, test benches, and verification test cases.
 
@@ -10,5 +10,6 @@ NON CONTACT SENSOR
 
 <img width="1639" height="696" alt="image" src="https://github.com/user-attachments/assets/95cdb01c-9e90-414d-8975-c8248af0de0d" />
 <img width="1167" height="717" alt="image" src="https://github.com/user-attachments/assets/30ff355a-7102-48b1-a8af-b9fa109a4918" />
+<img width="902" height="596" alt="image" src="https://github.com/user-attachments/assets/08db01bd-5684-418a-8e20-ae8865d73e16" />
 
 
